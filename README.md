@@ -1,5 +1,5 @@
 # AFNI-fMRI-data-analysis-2subs-try
-# 先做预处理，时间矫正、头动矫正、生理噪声矫正（Fultz同时使用呼吸带和心电图，而只有fMRI数据的时，只能）
+# 先做预处理，时间矫正、头动矫正、生理噪声矫正（Fultz同时使用呼吸带和心电图，而只有fMRI数据的时，只能做头动矫正？）
 [01_Fultz_Preproc_Step1.sh](https://github.com/user-attachments/files/27549210/01_Fultz_Preproc_Step1.sh)
 #!/bin/bash
 # ---------------------------------------------
